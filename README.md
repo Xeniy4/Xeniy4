@@ -12,8 +12,13 @@
   </table>
   </br>
 
-
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniy4&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xeniy4&theme=tokyo-night&days=45)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+### Инструменты, которыми я владею
+ <img src="icons/python.svg" width="50">  <img src="icons/selene.png" width="50"> <img src="icons/pytest.png" width="50"> <img src="icons/jenkins.png" width="50"> <img src="icons/selenoid.png" width="50"> <img src="icons/allure_report.png" width="50"> <img src="icons/allure_testops.png" width="50"> <img src="icons/jira.png" width="50"> <img src="icons/tg.png" width="50"> 
+
 

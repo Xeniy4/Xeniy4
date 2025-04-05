@@ -5,7 +5,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="10%" valign="bottom"><img src="/images/nngu.jpg"></td><td valign="middle"><a target="_blank" href="http://www.unn.ru/">ННГУ им. Н.И. Лобачевского</a>.</br> Экономический факультет.</br> Экономист.</td></tr>
+    <td width="10" valign="bottom"><img src="/images/nngu.jpg"></td><td valign="middle"><a target="_blank" href="http://www.unn.ru/">ННГУ им. Н.И. Лобачевского</a>.</br> Экономический факультет.</br> Экономист.</td></tr>
     <tr><td width="20%" valign="bottom"><img src="/images/yp.png"></td><td valign="middle"><a target="_blank" href="https://practicum.yandex.ru/">Яндекс Практикум</a>.</br>Инженер по тестированию.</td>
     <tr><td width="20%" valign="bottom"><img src="/images/guru.jpg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</br> Автоматизация тестирования на Python.</td></tr>
    </tr>

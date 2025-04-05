@@ -16,7 +16,7 @@ xeniy4
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniy4&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xeniy4&theme=tokyo-night&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xeniy4&theme=tokyo-night&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xeniy4&theme=tokyonight)](https://git.io/streak-stats)
 

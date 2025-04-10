@@ -15,7 +15,6 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniy4&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xeniy4&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xeniy4&theme=tokyo-night&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

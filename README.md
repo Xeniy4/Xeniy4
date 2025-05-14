@@ -20,7 +20,7 @@
 
 ---
 ### Инструменты, которые я использую
-  <img src="icons/pycharm.png" width="50"> <img src="icons/python.svg" width="50">  <img src="icons/selene.png" width="50"> <img src="icons/pytest.png" width="50"> <img src="icons/jenkins.png" width="50"> <img src="icons/selenoid.png" width="50"> <img src="icons/allure_report.png" width="50"> <img src="icons/allure_testops.png" width="50"> <img src="icons/jira.png" width="50"> <img src="icons/tg.png" width="50"> 
+  <img src="icons/pycharm.png" width="50"> <img src="icons/python.svg" width="50">  <img src="icons/selene.png" width="50"> <img src="icons/selenoid.png" width="50"> <img src="icons/pytest.png" width="50"> <img src="icons/pydantic.png" width="50"> <img src="icons/jenkins.png" width="50"> <img src="icons/allure_report.png" width="50"> <img src="icons/allure_testops.png" width="50"> <img src="icons/jira.png" width="50"> <img src="icons/tg.png" width="50"> 
 
 ---
 

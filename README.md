@@ -1,8 +1,3 @@
-# Привет! 🤗
-Меня зовут Ксения.  
-С 2022 года я Инженер по тестированию ПО 👾  
-А с 2023 года увлекаюсь автотестированием 💻
-
 <table width="100%" border='0'>
    <tr> 
     <td width="20" valign="bottom"><img src="/images/nngu.jpg"></td><td valign="middle"><a target="_blank" href="http://www.unn.ru/">ННГУ им. Н.И. Лобачевского</a>.</br> Экономический факультет.</br> Экономист.</td></tr>
